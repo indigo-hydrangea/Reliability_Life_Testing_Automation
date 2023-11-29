@@ -7,5 +7,5 @@ and repeated use over a specified test duration. The automation of these tasks e
 
 Reliability life test tasks that I automated include power cycling, initialization cycling, and the execution of the 'Prime Fluidics' maintenance task. 
 Power cycle testing ensures the instrument can reliably power on and off through extended periods of use, such as many years. Similarly, initialization cycling and 'Prime Fluidics' cycling ensure 
-the instrument can initialize and run its 'Prime Fluidics' maintenance task through a pre-defined reliability performance specification. While automation of power and initalization cycling is handled through 
+the instrument can initialize and run its 'Prime Fluidics' maintenance task through extended use. While automation of power and initalization cycling is handled through 
 batch scripts, the code for the 'Prime Fluidics" cycling is implemented in Python and utilizes a GUI automation module.
