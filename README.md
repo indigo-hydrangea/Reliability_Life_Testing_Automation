@@ -1,5 +1,6 @@
 # Batch-Script-Automation
 Config files for my GitHub profile.
+
 This repository hosts scripts I've developed to facilitate the automation of reliability life testing for the BD FACSDuet, an automated sample preparation machine. 
 Reliability life tests, crucial for estimating time to failure and failure probability for products in development, involve subjecting the product to rigorous and repeated use over a specified test duration. 
 The automation of these tasks expedites reliability life testing, enabling the collection of use cycles beyond standard work hours.
